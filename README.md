@@ -21,13 +21,17 @@
 
 🔸 페이지 미리보기
 <img src="https://user-images.githubusercontent.com/112832677/206956745-c8aaf9b9-fe60-437b-86d0-5ea500a176ce.PNG">
+- (전체적인 색감을 붉은 색으로 잡고 bootstrap 을 이용하여 header부분을 세로로 정렬했습니다.)
+- (내용은 학교 홍보 문구와 간단한 정보를 기입하고 관심 있으신 분들은 바로 확인 할 수 있게 홈페이지 링크를 버튼에 연결하여 올려뒀습니다.)
 <img src="https://user-images.githubusercontent.com/112832677/206956751-6fcf4e6d-a074-48db-8120-f99cf41ace72.PNG">
 <img src="https://user-images.githubusercontent.com/112832677/206956756-3e6087be-7867-4b04-9d8f-cecde0a68b64.PNG">
+- 해당 학과와 관련된 간단한 안내와 전공에 대한 소개, 교과목과 졸업 후에 취업이 가능한 직업종류를 기술해 뒀습니다.
 <img src="https://user-images.githubusercontent.com/112832677/206956760-bb310b47-c93e-4a4c-a703-b82886bd8185.PNG">
 <img src="https://user-images.githubusercontent.com/112832677/206956770-726f7b67-9e57-4499-9c61-1f44b2359992.PNG">
 <img src="https://user-images.githubusercontent.com/112832677/206956776-c7c3f0ee-256b-4466-8ed7-abc82569a415.PNG">
 <img src="https://user-images.githubusercontent.com/112832677/206956781-c70d29fe-4d82-433f-8290-0e814573a2d5.PNG">
 <img src="https://user-images.githubusercontent.com/112832677/206956786-efcb0100-039d-4288-84bb-0f15024c63be.PNG">
+- (포토폴리오 목록에 어떤 항목이 있는지 간단히 이미지로 올려뒀습니다.)
 
 
 ##### 🌟SKILLS🌟
