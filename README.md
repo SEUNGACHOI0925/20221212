@@ -1,6 +1,6 @@
 # (20221212) 컴퓨터정보융합과를 소개합니다
 <a href="https://seungachoi0925.github.io/HTML-CSS/">레포트사이트(Github)</a> <br>
-<a href="https://seungachoi0925.github.io/">깃블로그</a>
+<a href="https://seungachoi0925.github.io/">깃블로그(Github)</a>
 
 ---
 
