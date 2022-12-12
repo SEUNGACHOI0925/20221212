@@ -6,7 +6,7 @@
 아래 링크를 클릭하시면 해당 페이지로 이동 할 수 있습니다.
 
 <a href="https://seunga221212.netlify.app">소개페이지로 이동(Netlify)</a> <br>
-<a href="https://seungachoi0925.github.io/HTML-CSS/">레포트사이트(Github)</a>
+<a href="https://seungachoi0925.github.io/HTML-CSS/">레포트사이트(Github)</a> <br>
 <a href="https://seungachoi0925.github.io/">깃블로그</a>
 <br><br>
 🔸페이지 구성
