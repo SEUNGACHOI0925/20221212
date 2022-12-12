@@ -3,6 +3,7 @@
 
 
 📕 부산경상대학교 컴퓨터정보융합과 소개 페이지와 간단한 포트폴리오를 업데이트 해둔 사이트입니다.
+아래 링크를 클릭하시면 해당 페이지로 이동 할 수 있습니다.
 <a href="https://seunga221212.netlify.app"></a>
 <br><br>
 🔸페이지 구성
@@ -25,3 +26,13 @@
 <img src="https://user-images.githubusercontent.com/112832677/206956776-c7c3f0ee-256b-4466-8ed7-abc82569a415.PNG">
 <img src="https://user-images.githubusercontent.com/112832677/206956781-c70d29fe-4d82-433f-8290-0e814573a2d5.PNG">
 <img src="https://user-images.githubusercontent.com/112832677/206956786-efcb0100-039d-4288-84bb-0f15024c63be.PNG">
+
+
+##### 🌟SKILLS🌟
+  
+<img src="https://img.shields.io/badge/HTML5-E34F2?style=flat&logo=HTML5&logoColor=blue"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=yello"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+  
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=PINK"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=green"/>
+
+##### 🌟TOOLS🌟 
+<img src="https://img.shields.io/badge/Visual studio Code-007ACC?style=flat&logo=Visual studio Code&logoColor=skyblue"/> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=violet"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=ivory"/> 
