@@ -31,7 +31,7 @@
 <img src="https://user-images.githubusercontent.com/112832677/206956776-c7c3f0ee-256b-4466-8ed7-abc82569a415.PNG">
 <img src="https://user-images.githubusercontent.com/112832677/206956781-c70d29fe-4d82-433f-8290-0e814573a2d5.PNG">
 <img src="https://user-images.githubusercontent.com/112832677/206956786-efcb0100-039d-4288-84bb-0f15024c63be.PNG">
-- (포토폴리오 목록에 어떤 항목이 있는지 간단히 이미지로 올려뒀습니다.)
+- (포토폴리오 목록 어떤 항목이 있는지 간단히 이미지로 올려뒀습니다.)
 <br><br>
 
 ##### 🌟SKILLS🌟
