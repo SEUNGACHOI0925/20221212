@@ -1,13 +1,15 @@
 # (20221212) 컴퓨터정보융합과를 소개합니다
+<a href="https://seungachoi0925.github.io/HTML-CSS/">레포트사이트(Github)</a> <br>
+<a href="https://seungachoi0925.github.io/">깃블로그</a>
 
+---
 
 
 📕 부산경상대학교 컴퓨터정보융합과 소개 페이지와 간단한 포트폴리오를 업데이트 해둔 사이트입니다.
 아래 링크를 클릭하시면 해당 페이지로 이동 할 수 있습니다.
 
 <a href="https://seunga221212.netlify.app">소개페이지로 이동(Netlify)</a> <br>
-<a href="https://seungachoi0925.github.io/HTML-CSS/">레포트사이트(Github)</a> <br>
-<a href="https://seungachoi0925.github.io/">깃블로그</a>
+
 <br><br>
 🔸페이지 구성
 - 학교 홈화면
