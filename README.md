@@ -7,7 +7,7 @@
 
 <a href="https://seunga221212.netlify.app">소개페이지로 이동(Netlify)</a> <br>
 <a href="https://seungachoi0925.github.io/HTML-CSS/">레포트사이트(Github)</a>
-
+<a href="https://seungachoi0925.github.io/">깃블로그</a>
 <br><br>
 🔸페이지 구성
 - 학교 홈화면
